@@ -1,6 +1,6 @@
 # Projectwork - Smart Campus
 
-![Overview_projectwork](Overview_projectwork.jpg)
+![Overview_projectwork](Overview_projectwork_measurement.jpg)
 ## Measurements
 
 We measured the current of the Lorwan and the PIR-sensor.
