@@ -23,7 +23,7 @@ In the datasheets they say about 170 µA
 
 When you apply the power to the sensor it will take about 4.140 seconds to startup. This pattern will always be the same, I think. 
 
-Afterwards the out will be zero if there is no movement. Otherwise you'll see pulses by every movement. Some pulses are longer than others. Because the sensor sees more movement or the object comes closer to the sensor.
+Afterwards the out will be zero if there is no movement. Otherwise you'll see pulses by every movement. Some pulses are longer than others. Because the sensor sees more movement or the object comes closer to the sensor, I think.
 
  ![Image movement PIR](meting/PIR_movement.PNG)
 
